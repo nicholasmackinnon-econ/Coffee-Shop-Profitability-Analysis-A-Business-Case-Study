@@ -21,6 +21,6 @@ Estimate revenue, expenses, profit margins, and break-even points.
 - Jupyter Notebook
 - Matplotlib
 
-- ## Financial Performance Visualization
+## Financial Performance Visualization
 
-![Coffee Shop Financial Chart](coffee-shop-financial-chart.png)
+![Coffee Shop Financial Chart](coffee-shop-financial-chart.PNG)
