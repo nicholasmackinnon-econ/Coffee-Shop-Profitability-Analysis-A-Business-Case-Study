@@ -17,10 +17,10 @@ Estimate revenue, expenses, profit margins, and break-even points.
 - Break-even customers per day: ~98
 
 ## Tools Used
- Python
- Jupyter Notebook
- Matplotlib
+- Python
+- Jupyter Notebook
+- Matplotlib
 
-## Financial Performance Visualization
+- ## Financial Performance Visualization
 
 ![Coffee Shop Financial Chart](coffee-shop-financial-chart.png)
