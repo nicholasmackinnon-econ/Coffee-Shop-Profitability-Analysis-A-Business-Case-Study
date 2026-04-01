@@ -23,7 +23,7 @@ The goal of this analysis is to determine whether the coffee shop is financially
 - This suggests the business is **highly sensitive to changes in customer demand**, where even a small decrease in daily customers could eliminate profitability.  
 - The model highlights that maintaining consistent customer traffic is critical for financial sustainability.
 
-  ## Scenario Analysis
+## Scenario Analysis
 
 To better understand the business's financial sensitivity, different scenarios were tested by adjusting customer volume and pricing.
 
@@ -58,8 +58,22 @@ These recommendations highlight how small operational and strategic changes can 
 - Jupyter Notebook
 - Matplotlib
 
-## Financial Performance Visualization
+## Data Visualization
+
+This section presents visual representations of the coffee shop’s financial performance and how profitability changes with customer demand.
+
+### Financial Performance
 
 ![Coffee Shop Financial Chart](coffee-shop-financial-chart.PNG)
 
-The visualization shows that the coffee shop generates strong revenue relative to its operating costs, resulting in a monthly profit of approximately $3,300.
+### Interpretation
+
+The chart shows that the coffee shop generates strong revenue relative to its operating costs, resulting in a positive monthly profit of approximately $3,300. However, the relatively small gap between revenue and expenses indicates that profit margins are not very large, reinforcing the earlier insight that the business is sensitive to changes in customer demand and costs.
+
+### Profit vs Customers
+
+![Profit vs Customers](profit_vs_customers.png)
+
+### Interpretation
+
+The chart shows a clear relationship between customer volume and profitability. As daily customers increase, monthly profit rises significantly, while lower customer levels quickly result in losses. The break-even point occurs at approximately 98 customers per day, where profit transitions from negative to positive. This reinforces that maintaining sufficient customer traffic is critical for sustaining profitability.
