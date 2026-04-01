@@ -16,6 +16,13 @@ The goal of this analysis is to determine whether the coffee shop is financially
 - Monthly Profit: $3,300
 - Break-even customers per day: ~98
 
+## Key Insights
+
+- The coffee shop requires approximately **98 customers per day** to break even.  
+- At the current estimate of 120 customers per day, the business generates a profit of $3,300 per month, indicating relatively **tight profit margins**.  
+- This suggests the business is **highly sensitive to changes in customer demand**, where even a small decrease in daily customers could eliminate profitability.  
+- The model highlights that maintaining consistent customer traffic is critical for financial sustainability.
+  
 ## Tools Used
 - Python
 - Jupyter Notebook
