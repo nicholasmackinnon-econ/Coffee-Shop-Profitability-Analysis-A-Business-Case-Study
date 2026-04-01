@@ -77,3 +77,11 @@ The chart shows that the coffee shop generates strong revenue relative to its op
 ### Interpretation
 
 The chart shows a clear relationship between customer volume and profitability. As daily customers increase, monthly profit rises significantly, while lower customer levels quickly result in losses. The break-even point occurs at approximately 98 customers per day, where profit transitions from negative to positive. This reinforces that maintaining sufficient customer traffic is critical for sustaining profitability.
+
+## Conclusion
+
+This analysis shows that the coffee shop is profitable under the current assumptions, generating approximately $3,300 in monthly profit. However, the business operates with relatively tight margins and is highly sensitive to changes in customer demand and pricing.
+
+The break-even analysis and scenario testing highlight that even small decreases in daily customers or pricing can significantly impact profitability. As a result, maintaining consistent customer traffic and carefully managing pricing and costs are critical for long-term financial sustainability.
+
+Overall, the model demonstrates that while the business is viable, strategic decisions around demand generation, pricing, and cost control are essential to ensure stable and scalable profitability.
