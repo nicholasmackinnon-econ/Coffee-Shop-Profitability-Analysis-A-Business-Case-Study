@@ -1,9 +1,9 @@
-# Coffee Shop Profitability Model
+# Coffee Shop Profitability Analysis: A Business Case Study
 
-This project builds a financial model for a small coffee shop using Python.
+This project analyzes whether a small coffee shop can operate profitably under realistic business assumptions. Using Python, it estimates revenue, expenses, monthly profit, and break-even customer volume to evaluate the shop’s financial sustainability.
 
 ## Objective
-Estimate revenue, expenses, profit margins, and break-even points.
+The goal of this analysis is to determine whether the coffee shop is financially viable and to identify the key factors that most affect profitability, such as customer demand, pricing, and operating costs.
 
 ## Business Assumptions
 - Coffee price: $5
