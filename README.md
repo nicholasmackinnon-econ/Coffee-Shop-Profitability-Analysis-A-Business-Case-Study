@@ -40,6 +40,18 @@ To better understand the business's financial sensitivity, different scenarios w
 - At $6 per coffee → profit increases significantly  
 
 These scenarios show that the business is highly dependent on both customer demand and pricing strategy.
+
+## Business Recommendations
+
+Based on the analysis and scenario testing, the following recommendations can improve the coffee shop’s financial performance:
+
+- **Increase average order value** by offering add-ons such as pastries, snacks, or combo deals.
+- **Maintain consistent customer traffic** above the break-even level (~98 customers/day) through marketing, promotions, or loyalty programs.
+- **Evaluate pricing strategy**, as even a small increase in price significantly improves profitability.
+- **Monitor and control operating costs**, especially variable costs like supplies and labor, to protect profit margins.
+- **Diversify revenue streams**, such as offering seasonal drinks or expanding product offerings.
+
+These recommendations highlight how small operational and strategic changes can significantly impact profitability.
   
 ## Tools Used
 - Python
