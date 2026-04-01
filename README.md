@@ -22,6 +22,24 @@ The goal of this analysis is to determine whether the coffee shop is financially
 - At the current estimate of 120 customers per day, the business generates a profit of $3,300 per month, indicating relatively **tight profit margins**.  
 - This suggests the business is **highly sensitive to changes in customer demand**, where even a small decrease in daily customers could eliminate profitability.  
 - The model highlights that maintaining consistent customer traffic is critical for financial sustainability.
+
+  ## Scenario Analysis
+
+To better understand the business's financial sensitivity, different scenarios were tested by adjusting customer volume and pricing.
+
+### Customer Volume Impact
+
+- At 80 customers/day → the business operates at a loss  
+- At 100 customers/day → the business is near break-even  
+- At 140 customers/day → profitability increases significantly  
+
+### Pricing Impact
+
+- At $4 per coffee → profit decreases substantially  
+- At $5 per coffee → current baseline profit  
+- At $6 per coffee → profit increases significantly  
+
+These scenarios show that the business is highly dependent on both customer demand and pricing strategy.
   
 ## Tools Used
 - Python
